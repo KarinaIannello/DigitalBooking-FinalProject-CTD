@@ -36,14 +36,14 @@ Las funcionalidades principales incluyen:
 
 
 Tecnologías utilizadas:
-#### Front End 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5" height="30"/>  
-><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="html5" height="30"/>
+> #### Front End 
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5" height="30"/>  
+> ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="html5" height="30"/>
  
 > #### Back end
 > <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="html5" height="30"/>
@@ -147,7 +147,7 @@ Si un nuevo integrante se sumara al equipo de desarrollo, necesitará instalar e
 - Al ejecutar el backend se corre un script de carga de datos dummy.
 - Diagrama Entidad-Relación:
 
-![diagrama](uploads/bb2debf3547a1fa9ad6fafb7ddbf202d/diagrama.png)
+![image](https://user-images.githubusercontent.com/78554934/208179011-dc54e0c3-f398-47c6-8698-2d1c28d62050.png)
 
 #### Infraestructura
 - La infraestructura se encuentra montada en el servicio AWS, utilizando Amazon RDS para provisionamiento de Base de Datos, Amazon S3 para el almacenamiento de las imagenes y del frontend, y Amazon EC2 para la ejecución del backend.
