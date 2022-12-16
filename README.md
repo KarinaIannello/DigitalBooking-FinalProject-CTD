@@ -153,7 +153,7 @@ Si un nuevo integrante se sumara al equipo de desarrollo, necesitará instalar e
 - La infraestructura se encuentra montada en el servicio AWS, utilizando Amazon RDS para provisionamiento de Base de Datos, Amazon S3 para el almacenamiento de las imagenes y del frontend, y Amazon EC2 para la ejecución del backend.
 - Diagrama de la infraestructura:
 
-![Diagrama_Infra](uploads/4f5a44e5df9e2e43f42b4c79a66c509b/Diagrama_Infra.png)
+![image](https://user-images.githubusercontent.com/78554934/208179108-e9fbd57e-24e4-4af4-990c-5bbaa684b1fb.png)
 
 #### Testing y Calidad
 - Desde el backend se crearon tests unitarios sobre los servicios utilizando JUNIT5
