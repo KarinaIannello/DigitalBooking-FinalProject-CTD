@@ -21,25 +21,25 @@ Las funcionalidades principales incluyen:
 - Damian Micheli
 - Guadalupe Montero
 
-## Servicios / herramientas empleadas
-#### Gestión del proyecto
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="html5" height="30"/>
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="git" height="30"/>
+> ## Servicios / herramientas empleadas
+> #### Gestión del proyecto
+> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="git" height="30"/>
 
-#### Desarrollo del proyecto:
-#### IDEs
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="git" height="30"/>
-<img src="https://img.shields.io/badge/IntelliJ-IDEA-brightgreen?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA" height="30"/>
+> #### Desarrollo del proyecto:
+> #### IDEs
+> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="git" height="30"/>
+> <img src="https://img.shields.io/badge/IntelliJ-IDEA-brightgreen?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA" height="30"/>
 
-#### Sistemas de control de versiones
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
+> #### Sistemas de control de versiones
+> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 
 
 Tecnologías utilizadas:
 > #### Front End 
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5" height="30"/>  
-> ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" height="30"/>
+> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" height="30"/>
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="30"/>
 > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="html5" height="30"/>
 > <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="html5" height="30"/>
