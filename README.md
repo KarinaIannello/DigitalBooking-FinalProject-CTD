@@ -105,7 +105,7 @@ Si un nuevo integrante se sumara al equipo de desarrollo, necesitará instalar e
 
 1. Para utilizar la aplicación en una primera instancia hay que clonar el repositorio con el siguiente comando:
 
-**`$ git clone https://gitlab.ctd.academy/ctd/proyecto-integrador-1022/0521-pt-c3/grupo-04.git`**
+**`$ git clone https://github.com/KarinaIannello/DigitalBooking-FinalProject-CTD.git`**
 
 2. Luego ingresar al directorio correspondiente al frontend del proyecto:
 
@@ -123,7 +123,7 @@ Si un nuevo integrante se sumara al equipo de desarrollo, necesitará instalar e
 
 1. Para ejecutar el backend, hay que clonar el repositorio con el siguiente comando (este paso se puede omitir si se realizó el clonado anteriormente para el frontend) :
 
-**`$ git clone https://gitlab.ctd.academy/ctd/proyecto-integrador-1022/0521-pt-c3/grupo-04.git`**
+**`$ git clone https://github.com/KarinaIannello/DigitalBooking-FinalProject-CTD.git`**
 
 2. Con MySQL Workbench crear una nueva base de datos con el nombre '0521ptc3n1db_grupo4'
 
